@@ -32,10 +32,10 @@ The trained CNN model demonstrated promising results in tumor detection on MRI i
 - `README.md`: The project's documentation, providing an overview of the project and its components.
 
 ## Usage
-To run the code and train the CNN model, follow the steps outlined in the `code/README.md` file.
+To run the code and train the CNN model, follow the steps outlined in the `JonathanMRInewCode.ipynb` file.
 
 ## Acknowledgments
-We would like to acknowledge the authors of the dataset used in this project for making their data publicly available.
+I would like to acknowledge the authors of the dataset used in this project for making their data publicly available.
 
 ## References
 - [[Link to paper or resource if applicable]]
