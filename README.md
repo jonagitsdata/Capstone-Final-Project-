@@ -38,5 +38,5 @@ To run the code and train the CNN model, follow the steps outlined in the `code/
 We would like to acknowledge the authors of the dataset used in this project for making their data publicly available.
 
 ## References
-- [[Link to paper or resource if applicable](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection?select=pred)https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection?select=pred]
+- [[Link to paper or resource if applicable]]
 - [[GitHub repository URL for the code used in this project](https://github.com/jonagitsdata/Capstone-Final-Project-)https://github.com/jonagitsdata/Capstone-Final-Project-]
