@@ -1,6 +1,6 @@
 # MRI Tumor Detection Project
 
-![MRI Image](images/mri_image.jpg)
+![MRI Image](Downloads/mri_image.jpg)
 
 ## Overview
 This repository contains the code and resources for a Convolutional Neural Network (CNN) based project focused on tumor detection in MRI images. The goal of this project is to develop a deep learning model capable of accurately classifying MRI images as either having a tumor or not having a tumor.
