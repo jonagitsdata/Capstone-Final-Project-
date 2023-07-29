@@ -1,6 +1,7 @@
 # MRI Tumor Detection Project
 
-![MRI Image](Downloads/mri_image.jpg)
+![mri_image](https://github.com/jonagitsdata/Capstone-Final-Project-/assets/104871382/12fd121e-9602-49ec-8aa7-541cb5cc4596)
+
 
 ## Overview
 This repository contains the code and resources for a Convolutional Neural Network (CNN) based project focused on tumor detection in MRI images. The goal of this project is to develop a deep learning model capable of accurately classifying MRI images as either having a tumor or not having a tumor.
