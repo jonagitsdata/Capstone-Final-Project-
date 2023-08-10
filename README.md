@@ -25,10 +25,11 @@ The final trained model was evaluated on the test dataset to measure its accurac
 The trained CNN model demonstrated promising results in tumor detection on MRI images. The model achieved high accuracy, sensitivity, specificity, precision, and F1 score on the test dataset, indicating its effectiveness in identifying tumor cases.
 
 ## Repository Structure
-- `code/`: Contains the Python scripts for data preprocessing, model training, and evaluation.
-- `images/`: Contains images used in the README.
-- `data/`: Includes the processed dataset split into training, validation, and test sets.
-- `model/`: Contains the saved trained model for future use.
+- `JonathanMRInewCode.ipynb/`: Contains the Python scripts for data preprocessing, model training, and evaluation.
+- `dataset2, prediction and extra validation set/`: Contains images used for MRI tumor detection.
+- `jpg files/`: used for model testing.
+- `Nkangabwa_Capstone_Project_FinalReport.pdf/`: Final report detailing the project and results
+- `models and finalmodel/`: Contains the saved trained model for future use.
 - `README.md`: The project's documentation, providing an overview of the project and its components.
 
 ## Usage
